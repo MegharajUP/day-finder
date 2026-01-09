@@ -14,7 +14,7 @@ A Python program that displays the day of the week for a given date.
 
 - Gowtham A – Feature enhancements
 
-- Pavan Kumar – Error handling and UI improvements
+- Prajwal BR – Error handling and UI improvements
 
 
 
